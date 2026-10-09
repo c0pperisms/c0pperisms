@@ -1,7 +1,7 @@
 {
   "name": "MatchaGreen Edit",
   "description": "A Comfy Matcha Green theme based on Aetheris - edit",
-  "version": "1.1",
+  "version": "1.1.1",
   "authors": [
     {
       "name": "MatchaGreen + c0pperisms",
@@ -139,16 +139,16 @@
       "#293326"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#2E342D"
+      "#98D251"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#2E342D"
+      "#98D251"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#2E342D"
+      "#98D251"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2E342D"
+      "#98D251"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#ffffff1a"
@@ -163,7 +163,7 @@
       "#E6F1D3"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#2E342D"
+      "#98D251"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#28351e"
@@ -187,7 +187,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#81AC48"
+      "#C8ED9D"
     ],
     "TEXT_MUTED": [
       "#9BBD70"
@@ -232,7 +232,7 @@
       "transparent"
     ],
     "BACKGROUND_BRAND": [
-      "#81AC48"
+      "#98D251"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#343E33"
