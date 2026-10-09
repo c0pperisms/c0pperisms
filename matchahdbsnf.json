@@ -16,7 +16,7 @@
       "#343E33"
     ],
     "BACKGROUND_ACCENT": [
-      "#C8ED9D"
+      "#92B666"
     ],
     "BACKGROUND_FLOATING": [
       "#2E342D"
@@ -97,10 +97,10 @@
       "#2E342D"
     ],
     "CHANNELS_DEFAULT": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "CHANNEL_ICON": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#2E342D"
@@ -112,16 +112,16 @@
       "#C8ED9D"
     ],
     "HEADER_SECONDARY": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#C8ED9D"
+      "#92B666"
     ],
     "INTERACTIVE_HOVER": [
       "#527849"
     ],
     "INTERACTIVE_MUTED": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
       "#C8ED9D"
@@ -130,7 +130,7 @@
       "rgba(51, 114, 0, 0.1)"
     ],
     "MENTION_FOREGROUND": [
-      "#C8ED9D"
+      "#92B666"
     ],
     "MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
       "#21281f"
@@ -157,7 +157,7 @@
       "#e2b95a"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
       "#C8ED9D"
@@ -187,10 +187,10 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#C8ED9D"
+      "#92B666"
     ],
     "TEXT_MUTED": [
-      "#B7D295"
+      "#FFFFFF"
     ],
     "TEXT_NORMAL": [
       "#C8ED9D"
@@ -232,7 +232,7 @@
       "transparent"
     ],
     "BACKGROUND_BRAND": [
-      "#C8ED9D"
+      "#92B666"
     ],
     "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
       "#343E33"
@@ -285,32 +285,32 @@
     "BLUE_660": "#70a85a",
     "BLUE_700": "#78a85a",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#C8ED9D",
-    "BRAND_260": "#C8ED9D",
-    "BRAND_300": "#C8ED9D",
-    "BRAND_330": "#C8ED9D",
-    "BRAND_345": "#C8ED9D",
-    "BRAND_360": "#C8ED9D",
-    "BRAND_400": "#C8ED9D",
-    "BRAND_430": "#C8ED9D",
-    "BRAND_460": "#C8ED9D",
-    "BRAND_500": "#C8ED9D",
-    "BRAND_530": "#C8ED9D",
+    "BRAND_200": "#92B666",
+    "BRAND_260": "#92B666",
+    "BRAND_300": "#92B666",
+    "BRAND_330": "#92B666",
+    "BRAND_345": "#92B666",
+    "BRAND_360": "#92B666",
+    "BRAND_400": "#92B666",
+    "BRAND_430": "#92B666",
+    "BRAND_460": "#92B666",
+    "BRAND_500": "#92B666",
+    "BRAND_530": "#92B666",
     "BRAND_560": "#527849",
-    "BRAND_600": "#C8ED9D",
-    "BRAND_630": "#C8ED9D",
-    "BRAND_660": "#C8ED9D",
-    "BRAND_700": "#C8ED9D",
+    "BRAND_600": "#92B666",
+    "BRAND_630": "#92B666",
+    "BRAND_660": "#92B666",
+    "BRAND_700": "#92B666",
     "BRAND_730": "#C8ED9D",
     "PLUM_1": "#C8ED9D",
-    "PLUM_3": "#C8ED9D",
+    "PLUM_3": "#92B666",
     "PLUM_4": "#C8ED9D",
     "PLUM_6": "#C8ED9D",
-    "PLUM_9": "#B7D295",
-    "PLUM_10": "#B7D295",
-    "PLUM_11": "#B7D295",
-    "PLUM_13": "#B7D295",
-    "PLUM_15": "#C8ED9D",
+    "PLUM_9": "#FFFFFF",
+    "PLUM_10": "#FFFFFF",
+    "PLUM_11": "#FFFFFF",
+    "PLUM_13": "#FFFFFF",
+    "PLUM_15": "#92B666",
     "PLUM_16": "#2E342D",
     "PLUM_17": "#343E33",
     "PLUM_18": "#32372c",
@@ -322,19 +322,19 @@
     "PLUM_25": "#343E33",
     "PRIMARY_100": "#C8ED9D",
     "PRIMARY_200": "#C8ED9D",
-    "PRIMARY_300": "#C8ED9D",
+    "PRIMARY_300": "#92B666",
     "PRIMARY_330": "#C8ED9D",
-    "PRIMARY_360": "#C8ED9D",
+    "PRIMARY_360": "#92B666",
     "PRIMARY_400": "#527849",
     "PRIMARY_460": "#2E342D",
-    "PRIMARY_500": "#C8ED9D",
-    "PRIMARY_530": "#C8ED9D",
+    "PRIMARY_500": "#92B666",
+    "PRIMARY_530": "#92B666",
     "PRIMARY_600": "#343E33",
     "PRIMARY_630": "#2E342D",
     "PRIMARY_645": "#292f25",
     "PRIMARY_660": "#2E342D",
     "PRIMARY_700": "#2E342D",
-    "PRIMARY_730": "#B7D295",
+    "PRIMARY_730": "#FFFFFF",
     "PRIMARY_800": "#3a4a2c",
     "GREEN_260": "#43b581",
     "GREEN_300": "#5d7454",
@@ -400,8 +400,8 @@
     "YELLOW_660": "#cabf71",
     "YELLOW_700": "#cabf71",
     "WHITE_500": "#C8ED9D",
-    "WHITE_630": "#B7D295",
-    "ROLE_DEFAULT": "#B7D295",
+    "WHITE_630": "#FFFFFF",
+    "ROLE_DEFAULT": "#FFFFFF",
     "PRIMARY_DARK_700": "#343E33",
     "PRIMARY_DARK_800": "#343E33",
     "PRIMARY_DARK_600": "#2E342D",
@@ -437,7 +437,7 @@
   "spec": 2,
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1399017628265218068/1558125587493818449/0bb2d16988f5e34ecc1295757e3a081b.jpg?ex=6aca4d08&is=6ac8fb88&hm=99a674beeef9f4bdd601a2c76d1532746f46d448a4f0cf95f29e96d4cd846d0b&",
-    "alpha": 0.59,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   }
