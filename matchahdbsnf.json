@@ -127,7 +127,7 @@
       "#E6F1D3"
     ],
     "MENTION_BACKGROUND": [
-      "rgba(51, 114, 0, 0.1)"
+      "rgba(50, 113, 39, 0.8)"
     ],
     "MENTION_FOREGROUND": [
       "#C8ED9D"
@@ -154,7 +154,7 @@
       "#ffffff1a"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#e2b95a"
+      "#B9E259"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#9BBD70"
@@ -172,7 +172,7 @@
       "#b57022"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#6a795b"
+      "#B9E259"
     ],
     "STATUS_DANGER_TEXT": [
       "#343E33"
@@ -187,7 +187,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#C8ED9D"
+      "#81AC48"
     ],
     "TEXT_MUTED": [
       "#9BBD70"
