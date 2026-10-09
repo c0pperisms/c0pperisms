@@ -16,7 +16,7 @@
       "#343E33"
     ],
     "BACKGROUND_ACCENT": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "BACKGROUND_FLOATING": [
       "#2E342D"
@@ -437,7 +437,7 @@
   "spec": 2,
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1399017628265218068/1558125587493818449/0bb2d16988f5e34ecc1295757e3a081b.jpg?ex=6aca4d08&is=6ac8fb88&hm=99a674beeef9f4bdd601a2c76d1532746f46d448a4f0cf95f29e96d4cd846d0b&",
-    "alpha": 0.45,
+    "alpha": 0.4,
     "size": "cover",
     "position": "center"
   }
