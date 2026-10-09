@@ -1,7 +1,7 @@
 {
   "name": "MatchaGreen Edit",
   "description": "A Comfy Matcha Green theme based on Aetheris - edit",
-  "version": "1.0",
+  "version": "1.1",
   "authors": [
     {
       "name": "MatchaGreen + c0pperisms",
@@ -97,10 +97,10 @@
       "#2E342D"
     ],
     "CHANNELS_DEFAULT": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "CHANNEL_ICON": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
       "#2E342D"
@@ -109,22 +109,22 @@
       "#2E342D"
     ],
     "HEADER_PRIMARY": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "HEADER_SECONDARY": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#C8ED9D"
+      "9BBD70"
     ],
     "INTERACTIVE_HOVER": [
       "#527849"
     ],
     "INTERACTIVE_MUTED": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "INTERACTIVE_NORMAL": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "MENTION_BACKGROUND": [
       "rgba(51, 114, 0, 0.1)"
@@ -157,10 +157,10 @@
       "#e2b95a"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#2E342D"
@@ -190,13 +190,13 @@
       "#C8ED9D"
     ],
     "TEXT_MUTED": [
-      "#C8ED9D"
+      "#9BBD70"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "TEXT_PRIMARY": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "TEXT_SECONDARY": [
       "#e6fdda"
@@ -259,13 +259,13 @@
       "#2E342D"
     ],
     "INTERACTIVE_TEXT_DEFAULT": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "TEXT_DEFAULT": [
-      "#FFFFFF"
+      "#E6F1D3"
     ],
     "TEXT_STRONG": [
-      "#FFFFFF"
+      "#E6F1D3"
     ]
   },
   "rawColors": {
@@ -301,15 +301,15 @@
     "BRAND_630": "#C8ED9D",
     "BRAND_660": "#C8ED9D",
     "BRAND_700": "#C8ED9D",
-    "BRAND_730": "#FFFFFF",
-    "PLUM_1": "#FFFFFF",
+    "BRAND_730": "#E6F1D3",
+    "PLUM_1": "#E6F1D3",
     "PLUM_3": "#C8ED9D",
-    "PLUM_4": "#FFFFFF",
-    "PLUM_6": "#FFFFFF",
-    "PLUM_9": "#C8ED9D",
-    "PLUM_10": "#C8ED9D",
-    "PLUM_11": "#C8ED9D",
-    "PLUM_13": "#C8ED9D",
+    "PLUM_4": "#E6F1D3",
+    "PLUM_6": "#E6F1D3",
+    "PLUM_9": "#9BBD70",
+    "PLUM_10": "#9BBD70",
+    "PLUM_11": "#9BBD70",
+    "PLUM_13": "#9BBD70",
     "PLUM_15": "#C8ED9D",
     "PLUM_16": "#2E342D",
     "PLUM_17": "#343E33",
@@ -320,10 +320,10 @@
     "PLUM_22": "#2E342D",
     "PLUM_24": "#343E33",
     "PLUM_25": "#343E33",
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_100": "#E6F1D3",
+    "PRIMARY_200": "#E6F1D3",
     "PRIMARY_300": "#C8ED9D",
-    "PRIMARY_330": "#FFFFFF",
+    "PRIMARY_330": "#E6F1D3",
     "PRIMARY_360": "#C8ED9D",
     "PRIMARY_400": "#527849",
     "PRIMARY_460": "#2E342D",
@@ -334,7 +334,7 @@
     "PRIMARY_645": "#292f25",
     "PRIMARY_660": "#2E342D",
     "PRIMARY_700": "#2E342D",
-    "PRIMARY_730": "#C8ED9D",
+    "PRIMARY_730": "#9BBD70",
     "PRIMARY_800": "#3a4a2c",
     "GREEN_260": "#43b581",
     "GREEN_300": "#5d7454",
@@ -399,15 +399,15 @@
     "YELLOW_630": "#cabf71",
     "YELLOW_660": "#cabf71",
     "YELLOW_700": "#cabf71",
-    "WHITE_500": "#FFFFFF",
-    "WHITE_630": "#C8ED9D",
-    "ROLE_DEFAULT": "#C8ED9D",
+    "WHITE_500": "#E6F1D3",
+    "WHITE_630": "#9BBD70",
+    "ROLE_DEFAULT": "#9BBD70",
     "PRIMARY_DARK_700": "#343E33",
     "PRIMARY_DARK_800": "#343E33",
     "PRIMARY_DARK_600": "#2E342D",
     "PRIMARY_DARK_630": "#2E342D",
     "PRIMARY_DARK_660": "#2E342D",
-    "PRIMARY_DARK_200": "#FFFFFF"
+    "PRIMARY_DARK_200": "#E6F1D3"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -437,7 +437,7 @@
   "spec": 2,
   "background": {
     "url": "https://cdn.discordapp.com/attachments/1399017628265218068/1558125587493818449/0bb2d16988f5e34ecc1295757e3a081b.jpg?ex=6aca4d08&is=6ac8fb88&hm=99a674beeef9f4bdd601a2c76d1532746f46d448a4f0cf95f29e96d4cd846d0b&",
-    "alpha": 0.5,
+    "alpha": 0.45,
     "size": "cover",
     "position": "center"
   }
