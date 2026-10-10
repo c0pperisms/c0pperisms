@@ -22,10 +22,10 @@
       "#2E342D"
     ],
     "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-      "rgba(9, 170, 0, 0.1)"
+      "rgba(46, 52, 45, 0.8)"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "rgba(9, 170, 0, 0.1)"
+      "rgba(46, 52, 45, 1)"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#ffffff0d"
